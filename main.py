@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 import random
+from fila_encadeada import Node, filaEncadeada
 
 # Função para o dado do jogo
 def dado():
